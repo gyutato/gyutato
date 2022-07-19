@@ -11,7 +11,7 @@
 
 <div align="center" style="text-align:center">
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gyutato)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gyutato)](https://velog-readme-stats.vercel.app/api/redirect?name=gyutato)
 
 </div>
 
